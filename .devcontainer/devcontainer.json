@@ -41,5 +41,5 @@
 	"runArgs": [
 		"--volume=${localWorkspaceFolder}:/workspaces/${localWorkspaceFolderBasename}:Z"
 	]
-}
+
 }
